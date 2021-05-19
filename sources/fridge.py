@@ -34,7 +34,10 @@ class Fridge:
         if default_sauce < 0:
             default_sauce = 0
         self._ingredients: Dict[str, int] = dict.fromkeys(ALL_INGREDIENTS, default)
+<<<<<<< HEAD
         self.sauces: Dict[str, int] = dict.fromkeys(ALL_SAUCES, default_sauce)
+=======
+>>>>>>> 9245693 (Fridge can count)
         self._count: Dict[str, int] = dict.fromkeys(ALL_INGREDIENTS, 0)
 
     @property
