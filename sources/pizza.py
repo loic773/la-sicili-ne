@@ -1,4 +1,3 @@
-
 RECIPES = {
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
@@ -38,5 +37,5 @@ RECIPES = {
     },
      'sicilienne':{
      'ingredients' :{'anchois':12, 'olives': 10, 'onion': 1/2, 'tomato-sauce': 10cl 'mozzarela':20g}, 
-  
+     'price':12,  
 }
