@@ -21,13 +21,11 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     },
-<<<<<<< HEAD
      'sicilienne': {
       'ingredients' : {'anchois':12, 'olives': 10, 'onion': 1/2, 'tomato-sauce': 10, 'mozzarella':20}, 
       'price':12,
     },  
 
-=======
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
@@ -48,5 +46,4 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
->>>>>>> 20c1aca630937c006fcb11f3314a3632240d8b81
 }
