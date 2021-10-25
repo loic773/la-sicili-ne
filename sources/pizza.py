@@ -36,7 +36,7 @@ RECIPES = {
         'price': 11,
     },
      'sicilienne': {
-      'ingredients' : {'anchois':12, 'olives': 10, 'onion': 1/2, 'tomato-sauce': 10, 'mozzarela':20}, 
+      'ingredients' : {'anchois':12, 'olives': 10, 'onion': 1/2, 'tomato-sauce': 10, 'mozzarella':20}, 
       'price':12,
     },  
 
